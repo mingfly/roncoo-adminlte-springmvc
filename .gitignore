@@ -9,3 +9,6 @@
 /bin/
 /src/main/resources/conf/prod/base.properties
 /README.md
+.idea
+roncoo-adminlte-springmvc.iml
+logs
